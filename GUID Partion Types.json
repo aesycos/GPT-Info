@@ -1,0 +1,2536 @@
+[
+    {
+        "mbrType": "0x0000",
+        "guidData": "00000000-0000-0000-0000-000000000000",
+        "name": "Unused entry",
+        "toDisplay": 0,
+        "comment": null
+    },
+    {
+        "mbrType": "0x0100",
+        "guidData": "EBD0A0A2-B9E5-4433-87C0-68B6B72699C7",
+        "name": "Microsoft basic data",
+        "toDisplay": 0,
+        "comment": "FAT-12"
+    },
+    {
+        "mbrType": "0x0400",
+        "guidData": "EBD0A0A2-B9E5-4433-87C0-68B6B72699C7",
+        "name": "Microsoft basic data",
+        "toDisplay": 0,
+        "comment": "FAT-16 < 32M"
+    },
+    {
+        "mbrType": "0x0600",
+        "guidData": "EBD0A0A2-B9E5-4433-87C0-68B6B72699C7",
+        "name": "Microsoft basic data",
+        "toDisplay": 0,
+        "comment": "FAT-16"
+    },
+    {
+        "mbrType": "0x0700",
+        "guidData": "EBD0A0A2-B9E5-4433-87C0-68B6B72699C7",
+        "name": "Microsoft basic data",
+        "toDisplay": 1,
+        "comment": "NTFS (or HPFS)"
+    },
+    {
+        "mbrType": "0x0701",
+        "guidData": "558D43C5-A1AC-43C0-AAC8-D1472B2923D1",
+        "name": "Microsoft Storage Replica",
+        "toDisplay": 1,
+        "comment": null
+    },
+    {
+        "mbrType": "0x0702",
+        "guidData": "90B6FF38-B98F-4358-A21F-48F35B4A8AD3",
+        "name": "ArcaOS Type 1",
+        "toDisplay": 1,
+        "comment": null
+    },
+    {
+        "mbrType": "0x0b00",
+        "guidData": "EBD0A0A2-B9E5-4433-87C0-68B6B72699C7",
+        "name": "Microsoft basic data",
+        "toDisplay": 0,
+        "comment": "FAT-32"
+    },
+    {
+        "mbrType": "0x0c00",
+        "guidData": "EBD0A0A2-B9E5-4433-87C0-68B6B72699C7",
+        "name": "Microsoft basic data",
+        "toDisplay": 0,
+        "comment": "FAT-32 LBA"
+    },
+    {
+        "mbrType": "0x0c01",
+        "guidData": "E3C9E316-0B5C-4DB8-817D-F92DF00215AE",
+        "name": "Microsoft reserved",
+        "toDisplay": null,
+        "comment": null
+    },
+    {
+        "mbrType": "0x0e00",
+        "guidData": "EBD0A0A2-B9E5-4433-87C0-68B6B72699C7",
+        "name": "Microsoft basic data",
+        "toDisplay": 0,
+        "comment": "FAT-16 LBA"
+    },
+    {
+        "mbrType": "0x1100",
+        "guidData": "EBD0A0A2-B9E5-4433-87C0-68B6B72699C7",
+        "name": "Microsoft basic data",
+        "toDisplay": 0,
+        "comment": "Hidden FAT-12"
+    },
+    {
+        "mbrType": "0x1400",
+        "guidData": "EBD0A0A2-B9E5-4433-87C0-68B6B72699C7",
+        "name": "Microsoft basic data",
+        "toDisplay": 0,
+        "comment": "Hidden FAT-16 < 32M"
+    },
+    {
+        "mbrType": "0x1600",
+        "guidData": "EBD0A0A2-B9E5-4433-87C0-68B6B72699C7",
+        "name": "Microsoft basic data",
+        "toDisplay": 0,
+        "comment": "Hidden FAT-16"
+    },
+    {
+        "mbrType": "0x1700",
+        "guidData": "EBD0A0A2-B9E5-4433-87C0-68B6B72699C7",
+        "name": "Microsoft basic data",
+        "toDisplay": 0,
+        "comment": "Hidden NTFS (or HPFS)"
+    },
+    {
+        "mbrType": "0x1b00",
+        "guidData": "EBD0A0A2-B9E5-4433-87C0-68B6B72699C7",
+        "name": "Microsoft basic data",
+        "toDisplay": 0,
+        "comment": "Hidden FAT-32"
+    },
+    {
+        "mbrType": "0x1c00",
+        "guidData": "EBD0A0A2-B9E5-4433-87C0-68B6B72699C7",
+        "name": "Microsoft basic data",
+        "toDisplay": 0,
+        "comment": "Hidden FAT-32 LBA"
+    },
+    {
+        "mbrType": "0x1e00",
+        "guidData": "EBD0A0A2-B9E5-4433-87C0-68B6B72699C7",
+        "name": "Microsoft basic data",
+        "toDisplay": 0,
+        "comment": "Hidden FAT-16 LBA"
+    },
+    {
+        "mbrType": "0x2700",
+        "guidData": "DE94BBA4-06D1-4D40-A16A-BFD50179D6AC",
+        "name": "Windows RE",
+        "toDisplay": null,
+        "comment": null
+    },
+    {
+        "mbrType": "0x3000",
+        "guidData": "7412F7D5-A156-4B13-81DC-867174929325",
+        "name": "ONIE boot",
+        "toDisplay": null,
+        "comment": null
+    },
+    {
+        "mbrType": "0x3001",
+        "guidData": "D4E6E2CD-4469-46F3-B5CB-1BFF57AFC149",
+        "name": "ONIE config",
+        "toDisplay": null,
+        "comment": null
+    },
+    {
+        "mbrType": "0x3900",
+        "guidData": "C91818F9-8025-47AF-89D2-F030D7000C2C",
+        "name": "Plan 9",
+        "toDisplay": null,
+        "comment": null
+    },
+    {
+        "mbrType": "0x4100",
+        "guidData": "9E1A2D38-C612-4316-AA26-8B49521E5A8B",
+        "name": "PowerPC PReP boot",
+        "toDisplay": null,
+        "comment": null
+    },
+    {
+        "mbrType": "0x4200",
+        "guidData": "AF9B60A0-1431-4F62-BC68-3311714A69AD",
+        "name": "Windows LDM data",
+        "toDisplay": null,
+        "comment": "Logical disk manager"
+    },
+    {
+        "mbrType": "0x4201",
+        "guidData": "5808C8AA-7E8F-42E0-85D2-E1E90434CFB3",
+        "name": "Windows LDM metadata",
+        "toDisplay": null,
+        "comment": "Logical disk manager"
+    },
+    {
+        "mbrType": "0x4202",
+        "guidData": "E75CAF8F-F680-4CEE-AFA3-B001E56EFC2D",
+        "name": "Windows Storage Spaces",
+        "toDisplay": null,
+        "comment": "A newer LDM-type setup"
+    },
+    {
+        "mbrType": "0x7501",
+        "guidData": "37AFFC90-EF7D-4E96-91C3-2D7AE055B174",
+        "name": "IBM GPFS",
+        "toDisplay": null,
+        "comment": "General Parallel File System (GPFS)"
+    },
+    {
+        "mbrType": "0x7f00",
+        "guidData": "FE3A2A5D-4F32-41A7-B725-ACCC3285A309",
+        "name": "ChromeOS kernel",
+        "toDisplay": null,
+        "comment": null
+    },
+    {
+        "mbrType": "0x7f01",
+        "guidData": "3CB8E202-3B7E-47DD-8A3C-7FF2A13CFCEC",
+        "name": "ChromeOS root",
+        "toDisplay": null,
+        "comment": null
+    },
+    {
+        "mbrType": "0x7f02",
+        "guidData": "2E0A753D-9E48-43B0-8337-B15192CB1B5E",
+        "name": "ChromeOS reserved",
+        "toDisplay": null,
+        "comment": null
+    },
+    {
+        "mbrType": "0x7f03",
+        "guidData": "CAB6E88E-ABF3-4102-A07A-D4BB9BE3C1D3",
+        "name": "ChromeOS firmware",
+        "toDisplay": null,
+        "comment": null
+    },
+    {
+        "mbrType": "0x7f04",
+        "guidData": "09845860-705F-4BB5-B16C-8A8A099CAF52",
+        "name": "ChromeOS mini-OS",
+        "toDisplay": null,
+        "comment": null
+    },
+    {
+        "mbrType": "0x7f05",
+        "guidData": "3F0F8318-F146-4E6B-8222-C28C8F02E0D5",
+        "name": "ChromeOS hibernate",
+        "toDisplay": null,
+        "comment": null
+    },
+    {
+        "mbrType": "0x8200",
+        "guidData": "0657FD6D-A4AB-43C4-84E5-0933C84B4F4F",
+        "name": "Linux swap",
+        "toDisplay": null,
+        "comment": "Linux swap (or Solaris on MBR)"
+    },
+    {
+        "mbrType": "0x8300",
+        "guidData": "0FC63DAF-8483-4772-8E79-3D69D8477DE4",
+        "name": "Linux filesystem",
+        "toDisplay": null,
+        "comment": "Linux native"
+    },
+    {
+        "mbrType": "0x8301",
+        "guidData": "8DA63339-0007-60C0-C436-083AC8230908",
+        "name": "Linux reserved",
+        "toDisplay": null,
+        "comment": null
+    },
+    {
+        "mbrType": "0x8302",
+        "guidData": "933AC7E1-2EB4-4F13-B844-0E14E2AEF915",
+        "name": "Linux /home",
+        "toDisplay": null,
+        "comment": "Linux /home (auto-mounted by systemd)"
+    },
+    {
+        "mbrType": "0x8303",
+        "guidData": "44479540-F297-41B2-9AF7-D131D5F0458A",
+        "name": "Linux x86 root (/)",
+        "toDisplay": null,
+        "comment": "Linux / on x86 (auto-mounted by systemd)"
+    },
+    {
+        "mbrType": "0x8304",
+        "guidData": "4F68BCE3-E8CD-4DB1-96E7-FBCAF984B709",
+        "name": "Linux x86-64 root (/)",
+        "toDisplay": null,
+        "comment": "Linux / on x86-64 (auto-mounted by systemd)"
+    },
+    {
+        "mbrType": "0x8305",
+        "guidData": "B921B045-1DF0-41C3-AF44-4C6F280D3FAE",
+        "name": "Linux ARM64 root (/)",
+        "toDisplay": null,
+        "comment": "Linux / on 64-bit ARM (auto-mounted by systemd)"
+    },
+    {
+        "mbrType": "0x8306",
+        "guidData": "3B8F8425-20E0-4F3B-907F-1A25A76F98E8",
+        "name": "Linux /srv",
+        "toDisplay": null,
+        "comment": "Linux /srv (auto-mounted by systemd)"
+    },
+    {
+        "mbrType": "0x8307",
+        "guidData": "69DAD710-2CE4-4E3C-B16C-21A1D49ABED3",
+        "name": "Linux ARM32 root (/)",
+        "toDisplay": null,
+        "comment": "Linux / on 32-bit ARM (auto-mounted by systemd)"
+    },
+    {
+        "mbrType": "0x8308",
+        "guidData": "7FFEC5C9-2D00-49B7-8941-3EA10A5586B7",
+        "name": "Linux dm-crypt",
+        "toDisplay": null,
+        "comment": null
+    },
+    {
+        "mbrType": "0x8309",
+        "guidData": "CA7D7CCB-63ED-4C53-861C-1742536059CC",
+        "name": "Linux LUKS",
+        "toDisplay": null,
+        "comment": null
+    },
+    {
+        "mbrType": "0x830A",
+        "guidData": "993D8D3D-F80E-4225-855A-9DAF8ED7EA97",
+        "name": "Linux IA-64 root (/)",
+        "toDisplay": null,
+        "comment": "Linux / on Itanium (auto-mounted by systemd)"
+    },
+    {
+        "mbrType": "0x830B",
+        "guidData": "D13C5D3B-B5D1-422A-B29F-9454FDC89D76",
+        "name": "Linux x86 root verity",
+        "toDisplay": null,
+        "comment": null
+    },
+    {
+        "mbrType": "0x830C",
+        "guidData": "2C7357ED-EBD2-46D9-AEC1-23D437EC2BF5",
+        "name": "Linux x86-64 root verity",
+        "toDisplay": null,
+        "comment": null
+    },
+    {
+        "mbrType": "0x830D",
+        "guidData": "7386CDF2-203C-47A9-A498-F2ECCE45A2D6",
+        "name": "Linux ARM32 root verity",
+        "toDisplay": null,
+        "comment": null
+    },
+    {
+        "mbrType": "0x830E",
+        "guidData": "DF3300CE-D69F-4C92-978C-9BFB0F38D820",
+        "name": "Linux ARM64 root verity",
+        "toDisplay": null,
+        "comment": null
+    },
+    {
+        "mbrType": "0x830F",
+        "guidData": "86ED10D5-B607-45BB-8957-D350F23D0571",
+        "name": "Linux IA-64 root verity",
+        "toDisplay": null,
+        "comment": null
+    },
+    {
+        "mbrType": "0x8310",
+        "guidData": "4D21B016-B534-45C2-A9FB-5C16E091FD2D",
+        "name": "Linux /var",
+        "toDisplay": null,
+        "comment": "Linux /var (auto-mounted by systemd)"
+    },
+    {
+        "mbrType": "0x8311",
+        "guidData": "7EC6F557-3BC5-4ACA-B293-16EF5DF639D1",
+        "name": "Linux /var/tmp",
+        "toDisplay": null,
+        "comment": "Linux /var/tmp (auto-mounted by systemd)"
+    },
+    {
+        "mbrType": "0x8312",
+        "guidData": "773F91EF-66D4-49B5-BD83-D683BF40AD16",
+        "name": "Linux user's home",
+        "toDisplay": null,
+        "comment": "used by systemd-homed"
+    },
+    {
+        "mbrType": "0x8313",
+        "guidData": "75250D76-8CC6-458E-BD66-BD47CC81A812",
+        "name": "Linux x86 /usr ",
+        "toDisplay": null,
+        "comment": "Linux /usr on x86 (auto-mounted by systemd)"
+    },
+    {
+        "mbrType": "0x8314",
+        "guidData": "8484680C-9521-48C6-9C11-B0720656F69E",
+        "name": "Linux x86-64 /usr",
+        "toDisplay": null,
+        "comment": "Linux /usr on x86-64 (auto-mounted by systemd)"
+    },
+    {
+        "mbrType": "0x8315",
+        "guidData": "7D0359A3-02B3-4F0A-865C-654403E70625",
+        "name": "Linux ARM32 /usr",
+        "toDisplay": null,
+        "comment": "Linux /usr on 32-bit ARM (auto-mounted by systemd)"
+    },
+    {
+        "mbrType": "0x8316",
+        "guidData": "B0E01050-EE5F-4390-949A-9101B17104E9",
+        "name": "Linux ARM64 /usr",
+        "toDisplay": null,
+        "comment": "Linux /usr on 64-bit ARM (auto-mounted by systemd)"
+    },
+    {
+        "mbrType": "0x8317",
+        "guidData": "4301D2A6-4E3B-4B2A-BB94-9E0B2C4225EA",
+        "name": "Linux IA-64 /usr",
+        "toDisplay": null,
+        "comment": "Linux /usr on Itanium (auto-mounted by systemd)"
+    },
+    {
+        "mbrType": "0x8318",
+        "guidData": "8F461B0D-14EE-4E81-9AA9-049B6FB97ABD",
+        "name": "Linux x86 /usr verity",
+        "toDisplay": null,
+        "comment": null
+    },
+    {
+        "mbrType": "0x8319",
+        "guidData": "77FF5F63-E7B6-4633-ACF4-1565B864C0E6",
+        "name": "Linux x86-64 /usr verity",
+        "toDisplay": null,
+        "comment": null
+    },
+    {
+        "mbrType": "0x831A",
+        "guidData": "C215D751-7BCD-4649-BE90-6627490A4C05",
+        "name": "Linux ARM32 /usr verity",
+        "toDisplay": null,
+        "comment": null
+    },
+    {
+        "mbrType": "0x831B",
+        "guidData": "6E11A4E7-FBCA-4DED-B9E9-E1A512BB664E",
+        "name": "Linux ARM64 /usr verity",
+        "toDisplay": null,
+        "comment": null
+    },
+    {
+        "mbrType": "0x831C",
+        "guidData": "6A491E03-3BE7-4545-8E38-83320E0EA880",
+        "name": "Linux IA-64 /usr verity",
+        "toDisplay": null,
+        "comment": null
+    },
+    {
+        "mbrType": "0x831D",
+        "guidData": "6523F8AE-3EB1-4E2A-A05A-18B695AE656F",
+        "name": "Linux Alpha root (/)",
+        "toDisplay": null,
+        "comment": null
+    },
+    {
+        "mbrType": "0x831E",
+        "guidData": "D27F46ED-2919-4CB8-BD25-9531F3C16534",
+        "name": "Linux ARC root (/)",
+        "toDisplay": null,
+        "comment": null
+    },
+    {
+        "mbrType": "0x831F",
+        "guidData": "77055800-792C-4F94-B39A-98C91B762BB6",
+        "name": "Linux LoongArch root (/)",
+        "toDisplay": null,
+        "comment": null
+    },
+    {
+        "mbrType": "0x8320",
+        "guidData": "E9434544-6E2C-47CC-BAE2-12D6DEAFB44C",
+        "name": "Linux MIPS-32 BE root (/)",
+        "toDisplay": null,
+        "comment": null
+    },
+    {
+        "mbrType": "0x8321",
+        "guidData": "D113AF76-80EF-41B4-BDB6-0CFF4D3D4A25",
+        "name": "Linux MIPS-64 BE root (/)",
+        "toDisplay": null,
+        "comment": null
+    },
+    {
+        "mbrType": "0x8322",
+        "guidData": "37C58C8A-D913-4156-A25F-48B1B64E07F0",
+        "name": "Linux MIPS-32 LE root (/)",
+        "toDisplay": null,
+        "comment": null
+    },
+    {
+        "mbrType": "0x8323",
+        "guidData": "700BDA43-7A34-4507-B179-EEB93D7A7CA3",
+        "name": "Linux MIPS-64 LE root (/)",
+        "toDisplay": null,
+        "comment": null
+    },
+    {
+        "mbrType": "0x8324",
+        "guidData": "1AACDB3B-5444-4138-BD9E-E5C2239B2346",
+        "name": "Linux PA-RISC root (/)",
+        "toDisplay": null,
+        "comment": null
+    },
+    {
+        "mbrType": "0x8325",
+        "guidData": "1DE3F1EF-FA98-47B5-8DCD-4A860A654D78",
+        "name": "Linux PowerPC-32 root (/)",
+        "toDisplay": null,
+        "comment": null
+    },
+    {
+        "mbrType": "0x8326",
+        "guidData": "912ADE1D-A839-4913-8964-A10EEE08FBD2",
+        "name": "Linux PowerPC-64 BE root (/)",
+        "toDisplay": null,
+        "comment": null
+    },
+    {
+        "mbrType": "0x8327",
+        "guidData": "C31C45E6-3F39-412E-80FB-4809C4980599",
+        "name": "Linux PowerPC-64 LE root (/)",
+        "toDisplay": null,
+        "comment": null
+    },
+    {
+        "mbrType": "0x8328",
+        "guidData": "60D5A7FE-8E7D-435C-B714-3DD8162144E1",
+        "name": "Linux RISC-V-32 root (/)",
+        "toDisplay": null,
+        "comment": null
+    },
+    {
+        "mbrType": "0x8329",
+        "guidData": "72EC70A6-CF74-40E6-BD49-4BDA08E8F224",
+        "name": "Linux RISC-V-64 root (/)",
+        "toDisplay": null,
+        "comment": null
+    },
+    {
+        "mbrType": "0x832A",
+        "guidData": "08A7ACEA-624C-4A20-91E8-6E0FA67D23F9",
+        "name": "Linux s390 root (/)",
+        "toDisplay": null,
+        "comment": null
+    },
+    {
+        "mbrType": "0x832B",
+        "guidData": "5EEAD9A9-FE09-4A1E-A1D7-520D00531306",
+        "name": "Linux s390x root (/)",
+        "toDisplay": null,
+        "comment": null
+    },
+    {
+        "mbrType": "0x832C",
+        "guidData": "C50CDD70-3862-4CC3-90E1-809A8C93EE2C",
+        "name": "Linux TILE-Gx root (/)",
+        "toDisplay": null,
+        "comment": null
+    },
+    {
+        "mbrType": "0x832D",
+        "guidData": "E18CF08C-33EC-4C0D-8246-C6C6FB3DA024",
+        "name": "Linux Alpha /usr",
+        "toDisplay": null,
+        "comment": null
+    },
+    {
+        "mbrType": "0x832E",
+        "guidData": "7978A683-6316-4922-BBEE-38BFF5A2FECC",
+        "name": "Linux ARC /usr",
+        "toDisplay": null,
+        "comment": null
+    },
+    {
+        "mbrType": "0x832F",
+        "guidData": "E611C702-575C-4CBE-9A46-434FA0BF7E3F",
+        "name": "Linux LoongArch /usr",
+        "toDisplay": null,
+        "comment": null
+    },
+    {
+        "mbrType": "0x8330",
+        "guidData": "773B2ABC-2A99-4398-8BF5-03BAAC40D02B",
+        "name": "Linux MIPS-32 BE /usr",
+        "toDisplay": null,
+        "comment": null
+    },
+    {
+        "mbrType": "0x8331",
+        "guidData": "57E13958-7331-4365-8E6E-35EEEE17C61B",
+        "name": "Linux MIPS-64 BE /usr",
+        "toDisplay": null,
+        "comment": null
+    },
+    {
+        "mbrType": "0x8332",
+        "guidData": "0F4868E9-9952-4706-979F-3ED3A473E947",
+        "name": "Linux MIPS-32 LE /usr",
+        "toDisplay": null,
+        "comment": null
+    },
+    {
+        "mbrType": "0x8333",
+        "guidData": "C97C1F32-BA06-40B4-9F22-236061B08AA8",
+        "name": "Linux MIPS-64 LE /usr",
+        "toDisplay": null,
+        "comment": null
+    },
+    {
+        "mbrType": "0x8334",
+        "guidData": "DC4A4480-6917-4262-A4EC-DB9384949F25",
+        "name": "Linux PA-RISC /usr",
+        "toDisplay": null,
+        "comment": null
+    },
+    {
+        "mbrType": "0x8335",
+        "guidData": "7D14FEC5-CC71-415D-9D6C-06BF0B3C3EAF",
+        "name": "Linux PowerPC-32 /usr",
+        "toDisplay": null,
+        "comment": null
+    },
+    {
+        "mbrType": "0x8336",
+        "guidData": "2C9739E2-F068-46B3-9FD0-01C5A9AFBCCA",
+        "name": "Linux PowerPC-64 BE /usr",
+        "toDisplay": null,
+        "comment": null
+    },
+    {
+        "mbrType": "0x8337",
+        "guidData": "15BB03AF-77E7-4D4A-B12B-C0D084F7491C",
+        "name": "Linux PowerPC-64 LE /usr",
+        "toDisplay": null,
+        "comment": null
+    },
+    {
+        "mbrType": "0x8338",
+        "guidData": "B933FB22-5C3F-4F91-AF90-E2BB0FA50702",
+        "name": "Linux RISC-V-32 /usr",
+        "toDisplay": null,
+        "comment": null
+    },
+    {
+        "mbrType": "0x8339",
+        "guidData": "BEAEC34B-8442-439B-A40B-984381ED097D",
+        "name": "Linux RISC-V-64 /usr",
+        "toDisplay": null,
+        "comment": null
+    },
+    {
+        "mbrType": "0x833A",
+        "guidData": "CD0F869B-D0FB-4CA0-B141-9EA87CC78D66",
+        "name": "Linux s390 /usr",
+        "toDisplay": null,
+        "comment": null
+    },
+    {
+        "mbrType": "0x833B",
+        "guidData": "8A4F5770-50AA-4ED3-874A-99B710DB6FEA",
+        "name": "Linux s390x /usr",
+        "toDisplay": null,
+        "comment": null
+    },
+    {
+        "mbrType": "0x833C",
+        "guidData": "55497029-C7C1-44CC-AA39-815ED1558630",
+        "name": "Linux TILE-Gx /usr",
+        "toDisplay": null,
+        "comment": null
+    },
+    {
+        "mbrType": "0x833D",
+        "guidData": "FC56D9E9-E6E5-4C06-BE32-E74407CE09A5",
+        "name": "Linux Alpha root verity",
+        "toDisplay": null,
+        "comment": null
+    },
+    {
+        "mbrType": "0x833E",
+        "guidData": "24B2D975-0F97-4521-AFA1-CD531E421B8D",
+        "name": "Linux ARC root verity",
+        "toDisplay": null,
+        "comment": null
+    },
+    {
+        "mbrType": "0x833F",
+        "guidData": "F3393B22-E9AF-4613-A948-9D3BFBD0C535",
+        "name": "Linux LoongArch root verity",
+        "toDisplay": null,
+        "comment": null
+    },
+    {
+        "mbrType": "0x8340",
+        "guidData": "7A430799-F711-4C7E-8E5B-1D685BD48607",
+        "name": "Linux MIPS-32 BE root verity",
+        "toDisplay": null,
+        "comment": null
+    },
+    {
+        "mbrType": "0x8341",
+        "guidData": "579536F8-6A33-4055-A95A-DF2D5E2C42A8",
+        "name": "Linux MIPS-64 BE root verity",
+        "toDisplay": null,
+        "comment": null
+    },
+    {
+        "mbrType": "0x8342",
+        "guidData": "D7D150D2-2A04-4A33-8F12-16651205FF7B",
+        "name": "Linux MIPS-32 LE root verity",
+        "toDisplay": null,
+        "comment": null
+    },
+    {
+        "mbrType": "0x8343",
+        "guidData": "16B417F8-3E06-4F57-8DD2-9B5232F41AA6",
+        "name": "Linux MIPS-64 LE root verity",
+        "toDisplay": null,
+        "comment": null
+    },
+    {
+        "mbrType": "0x8344",
+        "guidData": "D212A430-FBC5-49F9-A983-A7FEEF2B8D0E",
+        "name": "Linux PA-RISC root verity",
+        "toDisplay": null,
+        "comment": null
+    },
+    {
+        "mbrType": "0x8345",
+        "guidData": "906BD944-4589-4AAE-A4E4-DD983917446A",
+        "name": "Linux PowerPC-64 LE root verity",
+        "toDisplay": null,
+        "comment": null
+    },
+    {
+        "mbrType": "0x8346",
+        "guidData": "9225A9A3-3C19-4D89-B4F6-EEFF88F17631",
+        "name": "Linux PowerPC-64 BE root verity",
+        "toDisplay": null,
+        "comment": null
+    },
+    {
+        "mbrType": "0x8347",
+        "guidData": "98CFE649-1588-46DC-B2F0-ADD147424925",
+        "name": "Linux PowerPC-32 root verity",
+        "toDisplay": null,
+        "comment": null
+    },
+    {
+        "mbrType": "0x8348",
+        "guidData": "AE0253BE-1167-4007-AC68-43926C14C5DE",
+        "name": "Linux RISC-V-32 root verity",
+        "toDisplay": null,
+        "comment": null
+    },
+    {
+        "mbrType": "0x8349",
+        "guidData": "B6ED5582-440B-4209-B8DA-5FF7C419EA3D",
+        "name": "Linux RISC-V-64 root verity",
+        "toDisplay": null,
+        "comment": null
+    },
+    {
+        "mbrType": "0x834A",
+        "guidData": "7AC63B47-B25C-463B-8DF8-B4A94E6C90E1",
+        "name": "Linux s390 root verity",
+        "toDisplay": null,
+        "comment": null
+    },
+    {
+        "mbrType": "0x834B",
+        "guidData": "B325BFBE-C7BE-4AB8-8357-139E652D2F6B",
+        "name": "Linux s390x root verity",
+        "toDisplay": null,
+        "comment": null
+    },
+    {
+        "mbrType": "0x834C",
+        "guidData": "966061EC-28E4-4B2E-B4A5-1F0A825A1D84",
+        "name": "Linux TILE-Gx root verity",
+        "toDisplay": null,
+        "comment": null
+    },
+    {
+        "mbrType": "0x834D",
+        "guidData": "8CCE0D25-C0D0-4A44-BD87-46331BF1DF67",
+        "name": "Linux Alpha /usr verity",
+        "toDisplay": null,
+        "comment": null
+    },
+    {
+        "mbrType": "0x834E",
+        "guidData": "FCA0598C-D880-4591-8C16-4EDA05C7347C",
+        "name": "Linux ARC /usr verity",
+        "toDisplay": null,
+        "comment": null
+    },
+    {
+        "mbrType": "0x834F",
+        "guidData": "F46B2C26-59AE-48F0-9106-C50ED47F673D",
+        "name": "Linux LoongArch /usr verity",
+        "toDisplay": null,
+        "comment": null
+    },
+    {
+        "mbrType": "0x8350",
+        "guidData": "6E5A1BC8-D223-49B7-BCA8-37A5FCCEB996",
+        "name": "Linux MIPS-32 BE /usr verity",
+        "toDisplay": null,
+        "comment": null
+    },
+    {
+        "mbrType": "0x8351",
+        "guidData": "81CF9D90-7458-4DF4-8DCF-C8A3A404F09B",
+        "name": "Linux MIPS-64 BE /usr verity",
+        "toDisplay": null,
+        "comment": null
+    },
+    {
+        "mbrType": "0x8352",
+        "guidData": "46B98D8D-B55C-4E8F-AAB3-37FCA7F80752",
+        "name": "Linux MIPS-32 LE /usr verity",
+        "toDisplay": null,
+        "comment": null
+    },
+    {
+        "mbrType": "0x8353",
+        "guidData": "3C3D61FE-B5F3-414D-BB71-8739A694A4EF",
+        "name": "Linux MIPS-64 LE /usr verity",
+        "toDisplay": null,
+        "comment": null
+    },
+    {
+        "mbrType": "0x8354",
+        "guidData": "5843D618-EC37-48D7-9F12-CEA8E08768B2",
+        "name": "Linux PA-RISC /usr verity",
+        "toDisplay": null,
+        "comment": null
+    },
+    {
+        "mbrType": "0x8355",
+        "guidData": "EE2B9983-21E8-4153-86D9-B6901A54D1CE",
+        "name": "Linux PowerPC-64 LE /usr verity",
+        "toDisplay": null,
+        "comment": null
+    },
+    {
+        "mbrType": "0x8356",
+        "guidData": "BDB528A5-A259-475F-A87D-DA53FA736A07",
+        "name": "Linux PowerPC-64 BE /usr verity",
+        "toDisplay": null,
+        "comment": null
+    },
+    {
+        "mbrType": "0x8357",
+        "guidData": "DF765D00-270E-49E5-BC75-F47BB2118B09",
+        "name": "Linux PowerPC-32 /usr verity",
+        "toDisplay": null,
+        "comment": null
+    },
+    {
+        "mbrType": "0x8358",
+        "guidData": "CB1EE4E3-8CD0-4136-A0A4-AA61A32E8730",
+        "name": "Linux RISC-V-32 /usr verity",
+        "toDisplay": null,
+        "comment": null
+    },
+    {
+        "mbrType": "0x8359",
+        "guidData": "8F1056BE-9B05-47C4-81D6-BE53128E5B54",
+        "name": "Linux RISC-V-64 /usr verity",
+        "toDisplay": null,
+        "comment": null
+    },
+    {
+        "mbrType": "0x835A",
+        "guidData": "B663C618-E7BC-4D6D-90AA-11B756BB1797",
+        "name": "Linux s390 /usr verity",
+        "toDisplay": null,
+        "comment": null
+    },
+    {
+        "mbrType": "0x835B",
+        "guidData": "31741CC4-1A2A-4111-A581-E00B447D2D06",
+        "name": "Linux s390x /usr verity",
+        "toDisplay": null,
+        "comment": null
+    },
+    {
+        "mbrType": "0x835C",
+        "guidData": "2FB4BF56-07FA-42DA-8132-6B139F2026AE",
+        "name": "Linux TILE-Gx /usr verity",
+        "toDisplay": null,
+        "comment": null
+    },
+    {
+        "mbrType": "0x835D",
+        "guidData": "D46495B7-A053-414F-80F7-700C99921EF8",
+        "name": "Linux Alpha root verity signature",
+        "toDisplay": null,
+        "comment": null
+    },
+    {
+        "mbrType": "0x835E",
+        "guidData": "143A70BA-CBD3-4F06-919F-6C05683A78BC",
+        "name": "Linux ARC root verity signature",
+        "toDisplay": null,
+        "comment": null
+    },
+    {
+        "mbrType": "0x835F",
+        "guidData": "42B0455F-EB11-491D-98D3-56145BA9D037",
+        "name": "Linux ARM32 root verity signature",
+        "toDisplay": null,
+        "comment": null
+    },
+    {
+        "mbrType": "0x8360",
+        "guidData": "6DB69DE6-29F4-4758-A7A5-962190F00CE3",
+        "name": "Linux ARM64 root verity signature",
+        "toDisplay": null,
+        "comment": null
+    },
+    {
+        "mbrType": "0x8361",
+        "guidData": "E98B36EE-32BA-4882-9B12-0CE14655F46A",
+        "name": "Linux IA-64 root verity signature",
+        "toDisplay": null,
+        "comment": null
+    },
+    {
+        "mbrType": "0x8362",
+        "guidData": "5AFB67EB-ECC8-4F85-AE8E-AC1E7C50E7D0",
+        "name": "Linux LoongArch root verity signature",
+        "toDisplay": null,
+        "comment": null
+    },
+    {
+        "mbrType": "0x8363",
+        "guidData": "BBA210A2-9C5D-45EE-9E87-FF2CCBD002D0",
+        "name": "Linux MIPS-32 BE root verity signature",
+        "toDisplay": null,
+        "comment": null
+    },
+    {
+        "mbrType": "0x8364",
+        "guidData": "43CE94D4-0F3D-4999-8250-B9DEAFD98E6E",
+        "name": "Linux MIPS-64 BE root verity signature",
+        "toDisplay": null,
+        "comment": null
+    },
+    {
+        "mbrType": "0x8365",
+        "guidData": "C919CC1F-4456-4EFF-918C-F75E94525CA5",
+        "name": "Linux MIPS-32 LE root verity signature",
+        "toDisplay": null,
+        "comment": null
+    },
+    {
+        "mbrType": "0x8366",
+        "guidData": "904E58EF-5C65-4A31-9C57-6AF5FC7C5DE7",
+        "name": "Linux MIPS-64 LE root verity signature",
+        "toDisplay": null,
+        "comment": null
+    },
+    {
+        "mbrType": "0x8367",
+        "guidData": "15DE6170-65D3-431C-916E-B0DCD8393F25",
+        "name": "Linux PA-RISC root verity signature",
+        "toDisplay": null,
+        "comment": null
+    },
+    {
+        "mbrType": "0x8368",
+        "guidData": "D4A236E7-E873-4C07-BF1D-BF6CF7F1C3C6",
+        "name": "Linux PowerPC-64 LE root verity signature",
+        "toDisplay": null,
+        "comment": null
+    },
+    {
+        "mbrType": "0x8369",
+        "guidData": "F5E2C20C-45B2-4FFA-BCE9-2A60737E1AAF",
+        "name": "Linux PowerPC-64 BE root verity signature",
+        "toDisplay": null,
+        "comment": null
+    },
+    {
+        "mbrType": "0x836A",
+        "guidData": "1B31B5AA-ADD9-463A-B2ED-BD467FC857E7",
+        "name": "Linux PowerPC-32 root verity signature",
+        "toDisplay": null,
+        "comment": null
+    },
+    {
+        "mbrType": "0x836B",
+        "guidData": "3A112A75-8729-4380-B4CF-764D79934448",
+        "name": "Linux RISC-V-32 root verity signature",
+        "toDisplay": null,
+        "comment": null
+    },
+    {
+        "mbrType": "0x836C",
+        "guidData": "EFE0F087-EA8D-4469-821A-4C2A96A8386A",
+        "name": "Linux RISC-V-64 root verity signature",
+        "toDisplay": null,
+        "comment": null
+    },
+    {
+        "mbrType": "0x836D",
+        "guidData": "3482388E-4254-435A-A241-766A065F9960",
+        "name": "Linux s390 root verity signature",
+        "toDisplay": null,
+        "comment": null
+    },
+    {
+        "mbrType": "0x836E",
+        "guidData": "C80187A5-73A3-491A-901A-017C3FA953E9",
+        "name": "Linux s390x root verity signature",
+        "toDisplay": null,
+        "comment": null
+    },
+    {
+        "mbrType": "0x836F",
+        "guidData": "B3671439-97B0-4A53-90F7-2D5A8F3AD47B",
+        "name": "Linux TILE-Gx root verity signature",
+        "toDisplay": null,
+        "comment": null
+    },
+    {
+        "mbrType": "0x8370",
+        "guidData": "41092B05-9FC8-4523-994F-2DEF0408B176",
+        "name": "Linux x86-64 root verity signature",
+        "toDisplay": null,
+        "comment": null
+    },
+    {
+        "mbrType": "0x8371",
+        "guidData": "5996FC05-109C-48DE-808B-23FA0830B676",
+        "name": "Linux x86 root verity signature",
+        "toDisplay": null,
+        "comment": null
+    },
+    {
+        "mbrType": "0x8372",
+        "guidData": "5C6E1C76-076A-457A-A0FE-F3B4CD21CE6E",
+        "name": "Linux Alpha /usr verity signature",
+        "toDisplay": null,
+        "comment": null
+    },
+    {
+        "mbrType": "0x8373",
+        "guidData": "94F9A9A1-9971-427A-A400-50CB297F0F35",
+        "name": "Linux ARC /usr verity signature",
+        "toDisplay": null,
+        "comment": null
+    },
+    {
+        "mbrType": "0x8374",
+        "guidData": "D7FF812F-37D1-4902-A810-D76BA57B975A",
+        "name": "Linux ARM32 /usr verity signature",
+        "toDisplay": null,
+        "comment": null
+    },
+    {
+        "mbrType": "0x8375",
+        "guidData": "C23CE4FF-44BD-4B00-B2D4-B41B3419E02A",
+        "name": "Linux ARM64 /usr verity signature",
+        "toDisplay": null,
+        "comment": null
+    },
+    {
+        "mbrType": "0x8376",
+        "guidData": "8DE58BC2-2A43-460D-B14E-A76E4A17B47F",
+        "name": "Linux IA-64 /usr verity signature",
+        "toDisplay": null,
+        "comment": null
+    },
+    {
+        "mbrType": "0x8377",
+        "guidData": "B024F315-D330-444C-8461-44BBDE524E99",
+        "name": "Linux LoongArch /usr verity signature",
+        "toDisplay": null,
+        "comment": null
+    },
+    {
+        "mbrType": "0x8378",
+        "guidData": "97AE158D-F216-497B-8057-F7F905770F54",
+        "name": "Linux MIPS-32 BE /usr verity signature",
+        "toDisplay": null,
+        "comment": null
+    },
+    {
+        "mbrType": "0x8379",
+        "guidData": "05816CE2-DD40-4AC6-A61D-37D32DC1BA7D",
+        "name": "Linux MIPS-64 BE /usr verity signature",
+        "toDisplay": null,
+        "comment": null
+    },
+    {
+        "mbrType": "0x837A",
+        "guidData": "3E23CA0B-A4BC-4B4E-8087-5AB6A26AA8A9",
+        "name": "Linux MIPS-32 LE /usr verity signature",
+        "toDisplay": null,
+        "comment": null
+    },
+    {
+        "mbrType": "0x837B",
+        "guidData": "F2C2C7EE-ADCC-4351-B5C6-EE9816B66E16",
+        "name": "Linux MIPS-64 LE /usr verity signature",
+        "toDisplay": null,
+        "comment": null
+    },
+    {
+        "mbrType": "0x837C",
+        "guidData": "450DD7D1-3224-45EC-9CF2-A43A346D71EE",
+        "name": "Linux PA-RISC /usr verity signature",
+        "toDisplay": null,
+        "comment": null
+    },
+    {
+        "mbrType": "0x837D",
+        "guidData": "C8BFBD1E-268E-4521-8BBA-BF314C399557",
+        "name": "Linux PowerPC-64 LE /usr verity signature",
+        "toDisplay": null,
+        "comment": null
+    },
+    {
+        "mbrType": "0x837E",
+        "guidData": "0B888863-D7F8-4D9E-9766-239FCE4D58AF",
+        "name": "Linux PowerPC-64 BE /usr verity signature",
+        "toDisplay": null,
+        "comment": null
+    },
+    {
+        "mbrType": "0x837F",
+        "guidData": "7007891D-D371-4A80-86A4-5CB875B9302E",
+        "name": "Linux PowerPC-32 /usr verity signature",
+        "toDisplay": null,
+        "comment": null
+    },
+    {
+        "mbrType": "0x8380",
+        "guidData": "C3836A13-3137-45BA-B583-B16C50FE5EB4",
+        "name": "Linux RISC-V-32 /usr verity signature",
+        "toDisplay": null,
+        "comment": null
+    },
+    {
+        "mbrType": "0x8381",
+        "guidData": "D2F9000A-7A18-453F-B5CD-4D32F77A7B32",
+        "name": "Linux RISC-V-64 /usr verity signature",
+        "toDisplay": null,
+        "comment": null
+    },
+    {
+        "mbrType": "0x8382",
+        "guidData": "17440E4F-A8D0-467F-A46E-3912AE6EF2C5",
+        "name": "Linux s390 /usr verity signature",
+        "toDisplay": null,
+        "comment": null
+    },
+    {
+        "mbrType": "0x8383",
+        "guidData": "3F324816-667B-46AE-86EE-9B0C0C6C11B4",
+        "name": "Linux s390x /usr verity signature",
+        "toDisplay": null,
+        "comment": null
+    },
+    {
+        "mbrType": "0x8384",
+        "guidData": "4EDE75E2-6CCC-4CC8-B9C7-70334B087510",
+        "name": "Linux TILE-Gx /usr verity signature",
+        "toDisplay": null,
+        "comment": null
+    },
+    {
+        "mbrType": "0x8385",
+        "guidData": "E7BB33FB-06CF-4E81-8273-E543B413E2E2",
+        "name": "Linux x86-64 /usr verity signature",
+        "toDisplay": null,
+        "comment": null
+    },
+    {
+        "mbrType": "0x8386",
+        "guidData": "974A71C0-DE41-43C3-BE5D-5C5CCD1AD2C0",
+        "name": "Linux x86 /usr verity signature",
+        "toDisplay": null,
+        "comment": null
+    },
+    {
+        "mbrType": "0x8400",
+        "guidData": "D3BFE2DE-3DAF-11DF-BA40-E3A556D89593",
+        "name": "Intel Rapid Start",
+        "toDisplay": null,
+        "comment": null
+    },
+    {
+        "mbrType": "0x8401",
+        "guidData": "7C5222BD-8F5D-4087-9C00-BF9843C7B58C",
+        "name": "SPDK block device",
+        "toDisplay": null,
+        "comment": null
+    },
+    {
+        "mbrType": "0x8500",
+        "guidData": "5DFBF5F4-2848-4BAC-AA5E-0D9A20B745A6",
+        "name": "Container Linux /usr",
+        "toDisplay": null,
+        "comment": null
+    },
+    {
+        "mbrType": "0x8501",
+        "guidData": "3884DD41-8582-4404-B9A8-E9B84F2DF50E",
+        "name": "Container Linux resizable rootfs",
+        "toDisplay": null,
+        "comment": null
+    },
+    {
+        "mbrType": "0x8502",
+        "guidData": "C95DC21A-DF0E-4340-8D7B-26CBFA9A03E0",
+        "name": "Container Linux /OEM customizations",
+        "toDisplay": null,
+        "comment": null
+    },
+    {
+        "mbrType": "0x8503",
+        "guidData": "BE9067B9-EA49-4F15-B4F6-F36F8C9E1818",
+        "name": "Container Linux root on RAID",
+        "toDisplay": null,
+        "comment": null
+    },
+    {
+        "mbrType": "0x8e00",
+        "guidData": "E6D6D379-F507-44C2-A23C-238F2A3DF928",
+        "name": "Linux LVM",
+        "toDisplay": null,
+        "comment": null
+    },
+    {
+        "mbrType": "0xa000",
+        "guidData": "2568845D-2332-4675-BC39-8FA5A4748D15",
+        "name": "Android bootloader",
+        "toDisplay": null,
+        "comment": null
+    },
+    {
+        "mbrType": "0xa001",
+        "guidData": "114EAFFE-1552-4022-B26E-9B053604CF84",
+        "name": "Android bootloader 2",
+        "toDisplay": null,
+        "comment": null
+    },
+    {
+        "mbrType": "0xa002",
+        "guidData": "49A4D17F-93A3-45C1-A0DE-F50B2EBE2599",
+        "name": "Android boot 1",
+        "toDisplay": null,
+        "comment": null
+    },
+    {
+        "mbrType": "0xa003",
+        "guidData": "4177C722-9E92-4AAB-8644-43502BFD5506",
+        "name": "Android recovery 1",
+        "toDisplay": null,
+        "comment": null
+    },
+    {
+        "mbrType": "0xa004",
+        "guidData": "EF32A33B-A409-486C-9141-9FFB711F6266",
+        "name": "Android misc",
+        "toDisplay": null,
+        "comment": null
+    },
+    {
+        "mbrType": "0xa005",
+        "guidData": "20AC26BE-20B7-11E3-84C5-6CFDB94711E9",
+        "name": "Android metadata",
+        "toDisplay": null,
+        "comment": null
+    },
+    {
+        "mbrType": "0xa006",
+        "guidData": "38F428E6-D326-425D-9140-6E0EA133647C",
+        "name": "Android system 1",
+        "toDisplay": null,
+        "comment": null
+    },
+    {
+        "mbrType": "0xa007",
+        "guidData": "A893EF21-E428-470A-9E55-0668FD91A2D9",
+        "name": "Android cache",
+        "toDisplay": null,
+        "comment": null
+    },
+    {
+        "mbrType": "0xa008",
+        "guidData": "DC76DDA9-5AC1-491C-AF42-A82591580C0D",
+        "name": "Android data",
+        "toDisplay": null,
+        "comment": null
+    },
+    {
+        "mbrType": "0xa009",
+        "guidData": "EBC597D0-2053-4B15-8B64-E0AAC75F4DB1",
+        "name": "Android persistent",
+        "toDisplay": null,
+        "comment": null
+    },
+    {
+        "mbrType": "0xa00a",
+        "guidData": "8F68CC74-C5E5-48DA-BE91-A0C8C15E9C80",
+        "name": "Android factory",
+        "toDisplay": null,
+        "comment": null
+    },
+    {
+        "mbrType": "0xa00b",
+        "guidData": "767941D0-2085-11E3-AD3B-6CFDB94711E9",
+        "name": "Android fastboot/tertiary",
+        "toDisplay": null,
+        "comment": null
+    },
+    {
+        "mbrType": "0xa00c",
+        "guidData": "AC6D7924-EB71-4DF8-B48D-E267B27148FF",
+        "name": "Android OEM",
+        "toDisplay": null,
+        "comment": null
+    },
+    {
+        "mbrType": "0xa00d",
+        "guidData": "C5A0AEEC-13EA-11E5-A1B1-001E67CA0C3C",
+        "name": "Android vendor",
+        "toDisplay": null,
+        "comment": null
+    },
+    {
+        "mbrType": "0xa00e",
+        "guidData": "BD59408B-4514-490D-BF12-9878D963F378",
+        "name": "Android config",
+        "toDisplay": null,
+        "comment": null
+    },
+    {
+        "mbrType": "0xa00f",
+        "guidData": "9FDAA6EF-4B3F-40D2-BA8D-BFF16BFB887B",
+        "name": "Android factory (alt)",
+        "toDisplay": null,
+        "comment": null
+    },
+    {
+        "mbrType": "0xa010",
+        "guidData": "19A710A2-B3CA-11E4-B026-10604B889DCF",
+        "name": "Android meta",
+        "toDisplay": null,
+        "comment": null
+    },
+    {
+        "mbrType": "0xa011",
+        "guidData": "193D1EA4-B3CA-11E4-B075-10604B889DCF",
+        "name": "Android EXT",
+        "toDisplay": null,
+        "comment": null
+    },
+    {
+        "mbrType": "0xa012",
+        "guidData": "DEA0BA2C-CBDD-4805-B4F9-F428251C3E98",
+        "name": "Android SBL1",
+        "toDisplay": null,
+        "comment": null
+    },
+    {
+        "mbrType": "0xa013",
+        "guidData": "8C6B52AD-8A9E-4398-AD09-AE916E53AE2D",
+        "name": "Android SBL2",
+        "toDisplay": null,
+        "comment": null
+    },
+    {
+        "mbrType": "0xa014",
+        "guidData": "05E044DF-92F1-4325-B69E-374A82E97D6E",
+        "name": "Android SBL3",
+        "toDisplay": null,
+        "comment": null
+    },
+    {
+        "mbrType": "0xa015",
+        "guidData": "400FFDCD-22E0-47E7-9A23-F16ED9382388",
+        "name": "Android APPSBL",
+        "toDisplay": null,
+        "comment": null
+    },
+    {
+        "mbrType": "0xa016",
+        "guidData": "A053AA7F-40B8-4B1C-BA08-2F68AC71A4F4",
+        "name": "Android QSEE/tz",
+        "toDisplay": null,
+        "comment": null
+    },
+    {
+        "mbrType": "0xa017",
+        "guidData": "E1A6A689-0C8D-4CC6-B4E8-55A4320FBD8A",
+        "name": "Android QHEE/hyp",
+        "toDisplay": null,
+        "comment": null
+    },
+    {
+        "mbrType": "0xa018",
+        "guidData": "098DF793-D712-413D-9D4E-89D711772228",
+        "name": "Android RPM",
+        "toDisplay": null,
+        "comment": null
+    },
+    {
+        "mbrType": "0xa019",
+        "guidData": "D4E0D938-B7FA-48C1-9D21-BC5ED5C4B203",
+        "name": "Android WDOG debug/sdi",
+        "toDisplay": null,
+        "comment": null
+    },
+    {
+        "mbrType": "0xa01a",
+        "guidData": "20A0C19C-286A-42FA-9CE7-F64C3226A794",
+        "name": "Android DDR",
+        "toDisplay": null,
+        "comment": null
+    },
+    {
+        "mbrType": "0xa01b",
+        "guidData": "A19F205F-CCD8-4B6D-8F1E-2D9BC24CFFB1",
+        "name": "Android CDT",
+        "toDisplay": null,
+        "comment": null
+    },
+    {
+        "mbrType": "0xa01c",
+        "guidData": "66C9B323-F7FC-48B6-BF96-6F32E335A428",
+        "name": "Android RAM dump",
+        "toDisplay": null,
+        "comment": null
+    },
+    {
+        "mbrType": "0xa01d",
+        "guidData": "303E6AC3-AF15-4C54-9E9B-D9A8FBECF401",
+        "name": "Android SEC",
+        "toDisplay": null,
+        "comment": null
+    },
+    {
+        "mbrType": "0xa01e",
+        "guidData": "C00EEF24-7709-43D6-9799-DD2B411E7A3C",
+        "name": "Android PMIC",
+        "toDisplay": null,
+        "comment": null
+    },
+    {
+        "mbrType": "0xa01f",
+        "guidData": "82ACC91F-357C-4A68-9C8F-689E1B1A23A1",
+        "name": "Android misc 1",
+        "toDisplay": null,
+        "comment": null
+    },
+    {
+        "mbrType": "0xa020",
+        "guidData": "E2802D54-0545-E8A1-A1E8-C7A3E245ACD4",
+        "name": "Android misc 2",
+        "toDisplay": null,
+        "comment": null
+    },
+    {
+        "mbrType": "0xa021",
+        "guidData": "65ADDCF4-0C5C-4D9A-AC2D-D90B5CBFCD03",
+        "name": "Android device info",
+        "toDisplay": null,
+        "comment": null
+    },
+    {
+        "mbrType": "0xa022",
+        "guidData": "E6E98DA2-E22A-4D12-AB33-169E7DEAA507",
+        "name": "Android APDP",
+        "toDisplay": null,
+        "comment": null
+    },
+    {
+        "mbrType": "0xa023",
+        "guidData": "ED9E8101-05FA-46B7-82AA-8D58770D200B",
+        "name": "Android MSADP",
+        "toDisplay": null,
+        "comment": null
+    },
+    {
+        "mbrType": "0xa024",
+        "guidData": "11406F35-1173-4869-807B-27DF71802812",
+        "name": "Android DPO",
+        "toDisplay": null,
+        "comment": null
+    },
+    {
+        "mbrType": "0xa025",
+        "guidData": "9D72D4E4-9958-42DA-AC26-BEA7A90B0434",
+        "name": "Android recovery 2",
+        "toDisplay": null,
+        "comment": null
+    },
+    {
+        "mbrType": "0xa026",
+        "guidData": "6C95E238-E343-4BA8-B489-8681ED22AD0B",
+        "name": "Android persist",
+        "toDisplay": null,
+        "comment": null
+    },
+    {
+        "mbrType": "0xa027",
+        "guidData": "EBBEADAF-22C9-E33B-8F5D-0E81686A68CB",
+        "name": "Android modem ST1",
+        "toDisplay": null,
+        "comment": null
+    },
+    {
+        "mbrType": "0xa028",
+        "guidData": "0A288B1F-22C9-E33B-8F5D-0E81686A68CB",
+        "name": "Android modem ST2",
+        "toDisplay": null,
+        "comment": null
+    },
+    {
+        "mbrType": "0xa029",
+        "guidData": "57B90A16-22C9-E33B-8F5D-0E81686A68CB",
+        "name": "Android FSC",
+        "toDisplay": null,
+        "comment": null
+    },
+    {
+        "mbrType": "0xa02a",
+        "guidData": "638FF8E2-22C9-E33B-8F5D-0E81686A68CB",
+        "name": "Android FSG 1",
+        "toDisplay": null,
+        "comment": null
+    },
+    {
+        "mbrType": "0xa02b",
+        "guidData": "2013373E-1AC4-4131-BFD8-B6A7AC638772",
+        "name": "Android FSG 2",
+        "toDisplay": null,
+        "comment": null
+    },
+    {
+        "mbrType": "0xa02c",
+        "guidData": "2C86E742-745E-4FDD-BFD8-B6A7AC638772",
+        "name": "Android SSD",
+        "toDisplay": null,
+        "comment": null
+    },
+    {
+        "mbrType": "0xa02d",
+        "guidData": "DE7D4029-0F5B-41C8-AE7E-F6C023A02B33",
+        "name": "Android keystore",
+        "toDisplay": null,
+        "comment": null
+    },
+    {
+        "mbrType": "0xa02e",
+        "guidData": "323EF595-AF7A-4AFA-8060-97BE72841BB9",
+        "name": "Android encrypt",
+        "toDisplay": null,
+        "comment": null
+    },
+    {
+        "mbrType": "0xa02f",
+        "guidData": "45864011-CF89-46E6-A445-85262E065604",
+        "name": "Android EKSST",
+        "toDisplay": null,
+        "comment": null
+    },
+    {
+        "mbrType": "0xa030",
+        "guidData": "8ED8AE95-597F-4C8A-A5BD-A7FF8E4DFAA9",
+        "name": "Android RCT",
+        "toDisplay": null,
+        "comment": null
+    },
+    {
+        "mbrType": "0xa031",
+        "guidData": "DF24E5ED-8C96-4B86-B00B-79667DC6DE11",
+        "name": "Android spare1",
+        "toDisplay": null,
+        "comment": null
+    },
+    {
+        "mbrType": "0xa032",
+        "guidData": "7C29D3AD-78B9-452E-9DEB-D098D542F092",
+        "name": "Android spare2",
+        "toDisplay": null,
+        "comment": null
+    },
+    {
+        "mbrType": "0xa033",
+        "guidData": "379D107E-229E-499D-AD4F-61F5BCF87BD4",
+        "name": "Android spare3",
+        "toDisplay": null,
+        "comment": null
+    },
+    {
+        "mbrType": "0xa034",
+        "guidData": "0DEA65E5-A676-4CDF-823C-77568B577ED5",
+        "name": "Android spare4",
+        "toDisplay": null,
+        "comment": null
+    },
+    {
+        "mbrType": "0xa035",
+        "guidData": "4627AE27-CFEF-48A1-88FE-99C3509ADE26",
+        "name": "Android raw resources",
+        "toDisplay": null,
+        "comment": null
+    },
+    {
+        "mbrType": "0xa036",
+        "guidData": "20117F86-E985-4357-B9EE-374BC1D8487D",
+        "name": "Android boot 2",
+        "toDisplay": null,
+        "comment": null
+    },
+    {
+        "mbrType": "0xa037",
+        "guidData": "86A7CB80-84E1-408C-99AB-694F1A410FC7",
+        "name": "Android FOTA",
+        "toDisplay": null,
+        "comment": null
+    },
+    {
+        "mbrType": "0xa038",
+        "guidData": "97D7B011-54DA-4835-B3C4-917AD6E73D74",
+        "name": "Android system 2",
+        "toDisplay": null,
+        "comment": null
+    },
+    {
+        "mbrType": "0xa039",
+        "guidData": "5594C694-C871-4B5F-90B1-690A6F68E0F7",
+        "name": "Android cache",
+        "toDisplay": null,
+        "comment": null
+    },
+    {
+        "mbrType": "0xa03a",
+        "guidData": "1B81E7E6-F50D-419B-A739-2AEEF8DA3335",
+        "name": "Android user data",
+        "toDisplay": null,
+        "comment": null
+    },
+    {
+        "mbrType": "0xa03b",
+        "guidData": "98523EC6-90FE-4C67-B50A-0FC59ED6F56D",
+        "name": "LG (Android) advanced flasher",
+        "toDisplay": null,
+        "comment": null
+    },
+    {
+        "mbrType": "0xa03c",
+        "guidData": "2644BCC0-F36A-4792-9533-1738BED53EE3",
+        "name": "Android PG1FS",
+        "toDisplay": null,
+        "comment": null
+    },
+    {
+        "mbrType": "0xa03d",
+        "guidData": "DD7C91E9-38C9-45C5-8A12-4A80F7E14057",
+        "name": "Android PG2FS",
+        "toDisplay": null,
+        "comment": null
+    },
+    {
+        "mbrType": "0xa03e",
+        "guidData": "7696D5B6-43FD-4664-A228-C563C4A1E8CC",
+        "name": "Android board info",
+        "toDisplay": null,
+        "comment": null
+    },
+    {
+        "mbrType": "0xa03f",
+        "guidData": "0D802D54-058D-4A20-AD2D-C7A362CEACD4",
+        "name": "Android MFG",
+        "toDisplay": null,
+        "comment": null
+    },
+    {
+        "mbrType": "0xa040",
+        "guidData": "10A0C19C-516A-5444-5CE3-664C3226A794",
+        "name": "Android limits",
+        "toDisplay": null,
+        "comment": null
+    },
+    {
+        "mbrType": "0xa200",
+        "guidData": "734E5AFE-F61A-11E6-BC64-92361F002671",
+        "name": "Atari TOS basic data",
+        "toDisplay": null,
+        "comment": null
+    },
+    {
+        "mbrType": "0xa500",
+        "guidData": "516E7CB4-6ECF-11D6-8FF8-00022D09712B",
+        "name": "FreeBSD disklabel",
+        "toDisplay": null,
+        "comment": null
+    },
+    {
+        "mbrType": "0xa501",
+        "guidData": "83BD6B9D-7F41-11DC-BE0B-001560B84F0F",
+        "name": "FreeBSD boot",
+        "toDisplay": null,
+        "comment": null
+    },
+    {
+        "mbrType": "0xa502",
+        "guidData": "516E7CB5-6ECF-11D6-8FF8-00022D09712B",
+        "name": "FreeBSD swap",
+        "toDisplay": null,
+        "comment": null
+    },
+    {
+        "mbrType": "0xa503",
+        "guidData": "516E7CB6-6ECF-11D6-8FF8-00022D09712B",
+        "name": "FreeBSD UFS",
+        "toDisplay": null,
+        "comment": null
+    },
+    {
+        "mbrType": "0xa504",
+        "guidData": "516E7CBA-6ECF-11D6-8FF8-00022D09712B",
+        "name": "FreeBSD ZFS",
+        "toDisplay": null,
+        "comment": null
+    },
+    {
+        "mbrType": "0xa505",
+        "guidData": "516E7CB8-6ECF-11D6-8FF8-00022D09712B",
+        "name": "FreeBSD Vinum/RAID",
+        "toDisplay": null,
+        "comment": null
+    },
+    {
+        "mbrType": "0xa506",
+        "guidData": "74BA7DD9-A689-11E1-BD04-00E081286ACF",
+        "name": "FreeBSD nandfs",
+        "toDisplay": null,
+        "comment": null
+    },
+    {
+        "mbrType": "0xa580",
+        "guidData": "85D5E45A-237C-11E1-B4B3-E89A8F7FC3A7",
+        "name": "Midnight BSD data",
+        "toDisplay": null,
+        "comment": null
+    },
+    {
+        "mbrType": "0xa581",
+        "guidData": "85D5E45E-237C-11E1-B4B3-E89A8F7FC3A7",
+        "name": "Midnight BSD boot",
+        "toDisplay": null,
+        "comment": null
+    },
+    {
+        "mbrType": "0xa582",
+        "guidData": "85D5E45B-237C-11E1-B4B3-E89A8F7FC3A7",
+        "name": "Midnight BSD swap",
+        "toDisplay": null,
+        "comment": null
+    },
+    {
+        "mbrType": "0xa583",
+        "guidData": "0394Ef8B-237E-11E1-B4B3-E89A8F7FC3A7",
+        "name": "Midnight BSD UFS",
+        "toDisplay": null,
+        "comment": null
+    },
+    {
+        "mbrType": "0xa584",
+        "guidData": "85D5E45D-237C-11E1-B4B3-E89A8F7FC3A7",
+        "name": "Midnight BSD ZFS",
+        "toDisplay": null,
+        "comment": null
+    },
+    {
+        "mbrType": "0xa585",
+        "guidData": "85D5E45C-237C-11E1-B4B3-E89A8F7FC3A7",
+        "name": "Midnight BSD Vinum",
+        "toDisplay": null,
+        "comment": null
+    },
+    {
+        "mbrType": "0xa600",
+        "guidData": "824CC7A0-36A8-11E3-890A-952519AD3F61",
+        "name": "OpenBSD disklabel",
+        "toDisplay": null,
+        "comment": null
+    },
+    {
+        "mbrType": "0xa800",
+        "guidData": "55465300-0000-11AA-AA11-00306543ECAC",
+        "name": "Apple UFS",
+        "toDisplay": null,
+        "comment": "Mac OS X"
+    },
+    {
+        "mbrType": "0xa900",
+        "guidData": "516E7CB4-6ECF-11D6-8FF8-00022D09712B",
+        "name": "FreeBSD disklabel",
+        "toDisplay": 0,
+        "comment": "NetBSD disklabel"
+    },
+    {
+        "mbrType": "0xa901",
+        "guidData": "49F48D32-B10E-11DC-B99B-0019D1879648",
+        "name": "NetBSD swap",
+        "toDisplay": null,
+        "comment": null
+    },
+    {
+        "mbrType": "0xa902",
+        "guidData": "49F48D5A-B10E-11DC-B99B-0019D1879648",
+        "name": "NetBSD FFS",
+        "toDisplay": null,
+        "comment": null
+    },
+    {
+        "mbrType": "0xa903",
+        "guidData": "49F48D82-B10E-11DC-B99B-0019D1879648",
+        "name": "NetBSD LFS",
+        "toDisplay": null,
+        "comment": null
+    },
+    {
+        "mbrType": "0xa904",
+        "guidData": "2DB519C4-B10F-11DC-B99B-0019D1879648",
+        "name": "NetBSD concatenated",
+        "toDisplay": null,
+        "comment": null
+    },
+    {
+        "mbrType": "0xa905",
+        "guidData": "2DB519EC-B10F-11DC-B99B-0019D1879648",
+        "name": "NetBSD encrypted",
+        "toDisplay": null,
+        "comment": null
+    },
+    {
+        "mbrType": "0xa906",
+        "guidData": "49F48DAA-B10E-11DC-B99B-0019D1879648",
+        "name": "NetBSD RAID",
+        "toDisplay": null,
+        "comment": null
+    },
+    {
+        "mbrType": "0xab00",
+        "guidData": "426F6F74-0000-11AA-AA11-00306543ECAC",
+        "name": "Recovery HD",
+        "toDisplay": null,
+        "comment": null
+    },
+    {
+        "mbrType": "0xaf00",
+        "guidData": "48465300-0000-11AA-AA11-00306543ECAC",
+        "name": "Apple HFS/HFS+",
+        "toDisplay": null,
+        "comment": null
+    },
+    {
+        "mbrType": "0xaf01",
+        "guidData": "52414944-0000-11AA-AA11-00306543ECAC",
+        "name": "Apple RAID",
+        "toDisplay": null,
+        "comment": null
+    },
+    {
+        "mbrType": "0xaf02",
+        "guidData": "52414944-5F4F-11AA-AA11-00306543ECAC",
+        "name": "Apple RAID offline",
+        "toDisplay": null,
+        "comment": null
+    },
+    {
+        "mbrType": "0xaf03",
+        "guidData": "4C616265-6C00-11AA-AA11-00306543ECAC",
+        "name": "Apple label",
+        "toDisplay": null,
+        "comment": null
+    },
+    {
+        "mbrType": "0xaf04",
+        "guidData": "5265636F-7665-11AA-AA11-00306543ECAC",
+        "name": "AppleTV recovery",
+        "toDisplay": null,
+        "comment": null
+    },
+    {
+        "mbrType": "0xaf05",
+        "guidData": "53746F72-6167-11AA-AA11-00306543ECAC",
+        "name": "Apple Core Storage",
+        "toDisplay": null,
+        "comment": null
+    },
+    {
+        "mbrType": "0xaf06",
+        "guidData": "B6FA30DA-92D2-4A9A-96F1-871EC6486200",
+        "name": "Apple SoftRAID Status",
+        "toDisplay": null,
+        "comment": null
+    },
+    {
+        "mbrType": "0xaf07",
+        "guidData": "2E313465-19B9-463F-8126-8A7993773801",
+        "name": "Apple SoftRAID Scratch",
+        "toDisplay": null,
+        "comment": null
+    },
+    {
+        "mbrType": "0xaf08",
+        "guidData": "FA709C7E-65B1-4593-BFD5-E71D61DE9B02",
+        "name": "Apple SoftRAID Volume",
+        "toDisplay": null,
+        "comment": null
+    },
+    {
+        "mbrType": "0xaf09",
+        "guidData": "BBBA6DF5-F46F-4A89-8F59-8765B2727503",
+        "name": "Apple SoftRAID Cache",
+        "toDisplay": null,
+        "comment": null
+    },
+    {
+        "mbrType": "0xaf0a",
+        "guidData": "7C3457EF-0000-11AA-AA11-00306543ECAC",
+        "name": "Apple APFS",
+        "toDisplay": null,
+        "comment": null
+    },
+    {
+        "mbrType": "0xaf0b",
+        "guidData": "69646961-6700-11AA-AA11-00306543ECAC",
+        "name": "Apple APFS Pre-Boot",
+        "toDisplay": null,
+        "comment": null
+    },
+    {
+        "mbrType": "0xaf0c",
+        "guidData": "52637672-7900-11AA-AA11-00306543ECAC",
+        "name": "Apple APFS Recovery",
+        "toDisplay": null,
+        "comment": null
+    },
+    {
+        "mbrType": "0xb000",
+        "guidData": "3DE21764-95BD-54BD-A5C3-4ABE786F38A8",
+        "name": "U-Boot boot loader",
+        "toDisplay": null,
+        "comment": null
+    },
+    {
+        "mbrType": "0xb300",
+        "guidData": "CEF5A9AD-73BC-4601-89F3-CDEEEEE321A1",
+        "name": "QNX6 Power-Safe",
+        "toDisplay": null,
+        "comment": null
+    },
+    {
+        "mbrType": "0xbb00",
+        "guidData": "4778ED65-BF42-45FA-9C5B-287A1DC4AAB1",
+        "name": "Barebox boot loader",
+        "toDisplay": null,
+        "comment": null
+    },
+    {
+        "mbrType": "0xbc00",
+        "guidData": "0311FC50-01CA-4725-AD77-9ADBB20ACE98",
+        "name": "Acronis Secure Zone",
+        "toDisplay": null,
+        "comment": null
+    },
+    {
+        "mbrType": "0xbe00",
+        "guidData": "6A82CB45-1DD2-11B2-99A6-080020736631",
+        "name": "Solaris boot",
+        "toDisplay": null,
+        "comment": null
+    },
+    {
+        "mbrType": "0xbf00",
+        "guidData": "6A85CF4D-1DD2-11B2-99A6-080020736631",
+        "name": "Solaris root",
+        "toDisplay": null,
+        "comment": null
+    },
+    {
+        "mbrType": "0xbf01",
+        "guidData": "6A898CC3-1DD2-11B2-99A6-080020736631",
+        "name": "Solaris /usr & Mac ZFS",
+        "toDisplay": null,
+        "comment": "Solaris/MacOS"
+    },
+    {
+        "mbrType": "0xbf02",
+        "guidData": "6A87C46F-1DD2-11B2-99A6-080020736631",
+        "name": "Solaris swap",
+        "toDisplay": null,
+        "comment": null
+    },
+    {
+        "mbrType": "0xbf03",
+        "guidData": "6A8B642B-1DD2-11B2-99A6-080020736631",
+        "name": "Solaris backup",
+        "toDisplay": null,
+        "comment": null
+    },
+    {
+        "mbrType": "0xbf04",
+        "guidData": "6A8EF2E9-1DD2-11B2-99A6-080020736631",
+        "name": "Solaris /var",
+        "toDisplay": null,
+        "comment": null
+    },
+    {
+        "mbrType": "0xbf05",
+        "guidData": "6A90BA39-1DD2-11B2-99A6-080020736631",
+        "name": "Solaris /home",
+        "toDisplay": null,
+        "comment": null
+    },
+    {
+        "mbrType": "0xbf06",
+        "guidData": "6A9283A5-1DD2-11B2-99A6-080020736631",
+        "name": "Solaris alternate sector",
+        "toDisplay": null,
+        "comment": null
+    },
+    {
+        "mbrType": "0xbf07",
+        "guidData": "6A945A3B-1DD2-11B2-99A6-080020736631",
+        "name": "Solaris Reserved 1",
+        "toDisplay": null,
+        "comment": null
+    },
+    {
+        "mbrType": "0xbf08",
+        "guidData": "6A9630D1-1DD2-11B2-99A6-080020736631",
+        "name": "Solaris Reserved 2",
+        "toDisplay": null,
+        "comment": null
+    },
+    {
+        "mbrType": "0xbf09",
+        "guidData": "6A980767-1DD2-11B2-99A6-080020736631",
+        "name": "Solaris Reserved 3",
+        "toDisplay": null,
+        "comment": null
+    },
+    {
+        "mbrType": "0xbf0a",
+        "guidData": "6A96237F-1DD2-11B2-99A6-080020736631",
+        "name": "Solaris Reserved 4",
+        "toDisplay": null,
+        "comment": null
+    },
+    {
+        "mbrType": "0xbf0b",
+        "guidData": "6A8D2AC7-1DD2-11B2-99A6-080020736631",
+        "name": "Solaris Reserved 5",
+        "toDisplay": null,
+        "comment": null
+    },
+    {
+        "mbrType": "0xc001",
+        "guidData": "75894C1E-3AEB-11D3-B7C1-7B03A0000000",
+        "name": "HP-UX data",
+        "toDisplay": null,
+        "comment": null
+    },
+    {
+        "mbrType": "0xc002",
+        "guidData": "E2A1E728-32E3-11D6-A682-7B03A0000000",
+        "name": "HP-UX service",
+        "toDisplay": null,
+        "comment": null
+    },
+    {
+        "mbrType": "0xe100",
+        "guidData": "7412F7D5-A156-4B13-81DC-867174929325",
+        "name": "ONIE boot",
+        "toDisplay": null,
+        "comment": null
+    },
+    {
+        "mbrType": "0xe101",
+        "guidData": "D4E6E2CD-4469-46F3-B5CB-1BFF57AFC149",
+        "name": "ONIE config",
+        "toDisplay": null,
+        "comment": null
+    },
+    {
+        "mbrType": "0xe900",
+        "guidData": "8C8F8EFF-AC95-4770-814A-21994F2DBC8F",
+        "name": "Veracrypt data",
+        "toDisplay": null,
+        "comment": null
+    },
+    {
+        "mbrType": "0xea00",
+        "guidData": "BC13C2FF-59E6-4262-A352-B275FD6F7172",
+        "name": "XBOOTLDR partition",
+        "toDisplay": null,
+        "comment": null
+    },
+    {
+        "mbrType": "0xeb00",
+        "guidData": "42465331-3BA3-10F1-802A-4861696B7521",
+        "name": "Haiku BFS",
+        "toDisplay": null,
+        "comment": null
+    },
+    {
+        "mbrType": "0xed00",
+        "guidData": "F4019732-066E-4E12-8273-346C5641494F",
+        "name": "Sony system partition",
+        "toDisplay": null,
+        "comment": null
+    },
+    {
+        "mbrType": "0xed01",
+        "guidData": "BFBFAFE7-A34F-448A-9A5B-6213EB736C22",
+        "name": "Lenovo system partition",
+        "toDisplay": null,
+        "comment": null
+    },
+    {
+        "mbrType": "0xef00",
+        "guidData": "C12A7328-F81F-11D2-BA4B-00A0C93EC93B",
+        "name": "EFI system partition",
+        "toDisplay": null,
+        "comment": "Parted identifies these as having the \"boot flag\" set"
+    },
+    {
+        "mbrType": "0xef01",
+        "guidData": "024DEE41-33E7-11D3-9D69-0008C781F39F",
+        "name": "MBR partition scheme",
+        "toDisplay": null,
+        "comment": "Used to nest MBR in GPT"
+    },
+    {
+        "mbrType": "0xef02",
+        "guidData": "21686148-6449-6E6F-744E-656564454649",
+        "name": "BIOS boot partition",
+        "toDisplay": null,
+        "comment": "Used by GRUB"
+    },
+    {
+        "mbrType": "0xf100",
+        "guidData": "FE8A2634-5E2E-46BA-99E3-3A192091A350",
+        "name": "Fuchsia boot loader (slot A/B/R)",
+        "toDisplay": null,
+        "comment": null
+    },
+    {
+        "mbrType": "0xf101",
+        "guidData": "D9FD4535-106C-4CEC-8D37-DFC020CA87CB",
+        "name": "Fuchsia durable mutable encrypted system data",
+        "toDisplay": null,
+        "comment": null
+    },
+    {
+        "mbrType": "0xf102",
+        "guidData": "A409E16B-78AA-4ACC-995C-302352621A41",
+        "name": "Fuchsia durable mutable boot loader",
+        "toDisplay": null,
+        "comment": null
+    },
+    {
+        "mbrType": "0xf103",
+        "guidData": "F95D940E-CABA-4578-9B93-BB6C90F29D3E",
+        "name": "Fuchsia factory ro system data",
+        "toDisplay": null,
+        "comment": null
+    },
+    {
+        "mbrType": "0xf104",
+        "guidData": "10B8DBAA-D2BF-42A9-98C6-A7C5DB3701E7",
+        "name": "Fuchsia factory ro bootloader data",
+        "toDisplay": null,
+        "comment": null
+    },
+    {
+        "mbrType": "0xf105",
+        "guidData": "49FD7CB8-DF15-4E73-B9D9-992070127F0F",
+        "name": "Fuchsia Volume Manager",
+        "toDisplay": null,
+        "comment": null
+    },
+    {
+        "mbrType": "0xf106",
+        "guidData": "421A8BFC-85D9-4D85-ACDA-B64EEC0133E9",
+        "name": "Fuchsia verified boot metadata (slot A/B/R)",
+        "toDisplay": null,
+        "comment": null
+    },
+    {
+        "mbrType": "0xf107",
+        "guidData": "9B37FFF6-2E58-466A-983A-F7926D0B04E0",
+        "name": "Fuchsia Zircon boot image (slot A/B/R)",
+        "toDisplay": null,
+        "comment": null
+    },
+    {
+        "mbrType": "0xf108",
+        "guidData": "C12A7328-F81F-11D2-BA4B-00A0C93EC93B",
+        "name": "Fuchsia ESP",
+        "toDisplay": null,
+        "comment": null
+    },
+    {
+        "mbrType": "0xf109",
+        "guidData": "606B000B-B7C7-4653-A7D5-B737332C899D",
+        "name": "Fuchsia System",
+        "toDisplay": null,
+        "comment": null
+    },
+    {
+        "mbrType": "0xf10a",
+        "guidData": "08185F0C-892D-428A-A789-DBEEC8F55E6A",
+        "name": "Fuchsia Data",
+        "toDisplay": null,
+        "comment": null
+    },
+    {
+        "mbrType": "0xf10b",
+        "guidData": "48435546-4953-2041-494E-5354414C4C52",
+        "name": "Fuchsia Install",
+        "toDisplay": null,
+        "comment": null
+    },
+    {
+        "mbrType": "0xf10c",
+        "guidData": "2967380E-134C-4CBB-B6DA-17E7CE1CA45D",
+        "name": "Fuchsia Blob",
+        "toDisplay": null,
+        "comment": null
+    },
+    {
+        "mbrType": "0xf10d",
+        "guidData": "41D0E340-57E3-954E-8C1E-17ECAC44CFF5",
+        "name": "Fuchsia FVM",
+        "toDisplay": null,
+        "comment": null
+    },
+    {
+        "mbrType": "0xf10e",
+        "guidData": "DE30CC86-1F4A-4A31-93C4-66F147D33E05",
+        "name": "Fuchsia Zircon boot image (slot A)",
+        "toDisplay": null,
+        "comment": null
+    },
+    {
+        "mbrType": "0xf10f",
+        "guidData": "23CC04DF-C278-4CE7-8471-897D1A4BCDF7",
+        "name": "Fuchsia Zircon boot image (slot B)",
+        "toDisplay": null,
+        "comment": null
+    },
+    {
+        "mbrType": "0xf110",
+        "guidData": "A0E5CF57-2DEF-46BE-A80C-A2067C37CD49",
+        "name": "Fuchsia Zircon boot image (slot R)",
+        "toDisplay": null,
+        "comment": null
+    },
+    {
+        "mbrType": "0xf111",
+        "guidData": "4E5E989E-4C86-11E8-A15B-480FCF35F8E6",
+        "name": "Fuchsia sys-config",
+        "toDisplay": null,
+        "comment": null
+    },
+    {
+        "mbrType": "0xf112",
+        "guidData": "5A3A90BE-4C86-11E8-A15B-480FCF35F8E6",
+        "name": "Fuchsia factory-config",
+        "toDisplay": null,
+        "comment": null
+    },
+    {
+        "mbrType": "0xf113",
+        "guidData": "5ECE94FE-4C86-11E8-A15B-480FCF35F8E6",
+        "name": "Fuchsia bootloader",
+        "toDisplay": null,
+        "comment": null
+    },
+    {
+        "mbrType": "0xf114",
+        "guidData": "8B94D043-30BE-4871-9DFA-D69556E8C1F3",
+        "name": "Fuchsia guid-test",
+        "toDisplay": null,
+        "comment": null
+    },
+    {
+        "mbrType": "0xf115",
+        "guidData": "A13B4D9A-EC5F-11E8-97D8-6C3BE52705BF",
+        "name": "Fuchsia verified boot metadata (A)",
+        "toDisplay": null,
+        "comment": null
+    },
+    {
+        "mbrType": "0xf116",
+        "guidData": "A288ABF2-EC5F-11E8-97D8-6C3BE52705BF",
+        "name": "Fuchsia verified boot metadata (B)",
+        "toDisplay": null,
+        "comment": null
+    },
+    {
+        "mbrType": "0xf117",
+        "guidData": "6A2460C3-CD11-4E8B-80A8-12CCE268ED0A",
+        "name": "Fuchsia verified boot metadata (R)",
+        "toDisplay": null,
+        "comment": null
+    },
+    {
+        "mbrType": "0xf118",
+        "guidData": "1D75395D-F2C6-476B-A8B7-45CC1C97B476",
+        "name": "Fuchsia misc",
+        "toDisplay": null,
+        "comment": null
+    },
+    {
+        "mbrType": "0xf119",
+        "guidData": "900B0FC5-90CD-4D4F-84F9-9F8ED579DB88",
+        "name": "Fuchsia emmc-boot1",
+        "toDisplay": null,
+        "comment": null
+    },
+    {
+        "mbrType": "0xf11a",
+        "guidData": "B2B2E8D1-7C10-4EBC-A2D0-4614568260AD",
+        "name": "Fuchsia emmc-boot2",
+        "toDisplay": null,
+        "comment": null
+    },
+    {
+        "mbrType": "0xf800",
+        "guidData": "4FBD7E29-9D25-41B8-AFD0-062C0CEFF05D",
+        "name": "Ceph OSD",
+        "toDisplay": null,
+        "comment": "Ceph Object Storage Daemon"
+    },
+    {
+        "mbrType": "0xf801",
+        "guidData": "4FBD7E29-9D25-41B8-AFD0-5EC00CEFF05D",
+        "name": "Ceph dm-crypt OSD",
+        "toDisplay": null,
+        "comment": "Ceph Object Storage Daemon (encrypted)"
+    },
+    {
+        "mbrType": "0xf802",
+        "guidData": "45B0969E-9B03-4F30-B4C6-B4B80CEFF106",
+        "name": "Ceph journal",
+        "toDisplay": null,
+        "comment": null
+    },
+    {
+        "mbrType": "0xf803",
+        "guidData": "45B0969E-9B03-4F30-B4C6-5EC00CEFF106",
+        "name": "Ceph dm-crypt journal",
+        "toDisplay": null,
+        "comment": null
+    },
+    {
+        "mbrType": "0xf804",
+        "guidData": "89C57F98-2FE5-4DC0-89C1-F3AD0CEFF2BE",
+        "name": "Ceph disk in creation",
+        "toDisplay": null,
+        "comment": null
+    },
+    {
+        "mbrType": "0xf805",
+        "guidData": "89C57F98-2FE5-4DC0-89C1-5EC00CEFF2BE",
+        "name": "Ceph dm-crypt disk in creation",
+        "toDisplay": null,
+        "comment": null
+    },
+    {
+        "mbrType": "0xf806",
+        "guidData": "CAFECAFE-9B03-4F30-B4C6-B4B80CEFF106",
+        "name": "Ceph block",
+        "toDisplay": null,
+        "comment": null
+    },
+    {
+        "mbrType": "0xf807",
+        "guidData": "30CD0809-C2B2-499C-8879-2D6B78529876",
+        "name": "Ceph block DB",
+        "toDisplay": null,
+        "comment": null
+    },
+    {
+        "mbrType": "0xf808",
+        "guidData": "5CE17FCE-4087-4169-B7FF-056CC58473F9",
+        "name": "Ceph block write-ahead log",
+        "toDisplay": null,
+        "comment": null
+    },
+    {
+        "mbrType": "0xf809",
+        "guidData": "FB3AABF9-D25F-47CC-BF5E-721D1816496B",
+        "name": "Ceph lockbox for dm-crypt keys",
+        "toDisplay": null,
+        "comment": null
+    },
+    {
+        "mbrType": "0xf80a",
+        "guidData": "4FBD7E29-8AE0-4982-BF9D-5A8D867AF560",
+        "name": "Ceph multipath OSD",
+        "toDisplay": null,
+        "comment": null
+    },
+    {
+        "mbrType": "0xf80b",
+        "guidData": "45B0969E-8AE0-4982-BF9D-5A8D867AF560",
+        "name": "Ceph multipath journal",
+        "toDisplay": null,
+        "comment": null
+    },
+    {
+        "mbrType": "0xf80c",
+        "guidData": "CAFECAFE-8AE0-4982-BF9D-5A8D867AF560",
+        "name": "Ceph multipath block 1",
+        "toDisplay": null,
+        "comment": null
+    },
+    {
+        "mbrType": "0xf80d",
+        "guidData": "7F4A666A-16F3-47A2-8445-152EF4D03F6C",
+        "name": "Ceph multipath block 2",
+        "toDisplay": null,
+        "comment": null
+    },
+    {
+        "mbrType": "0xf80e",
+        "guidData": "EC6D6385-E346-45DC-BE91-DA2A7C8B3261",
+        "name": "Ceph multipath block DB",
+        "toDisplay": null,
+        "comment": null
+    },
+    {
+        "mbrType": "0xf80f",
+        "guidData": "01B41E1B-002A-453C-9F17-88793989FF8F",
+        "name": "Ceph multipath block write-ahead log",
+        "toDisplay": null,
+        "comment": null
+    },
+    {
+        "mbrType": "0xf810",
+        "guidData": "CAFECAFE-9B03-4F30-B4C6-5EC00CEFF106",
+        "name": "Ceph dm-crypt block",
+        "toDisplay": null,
+        "comment": null
+    },
+    {
+        "mbrType": "0xf811",
+        "guidData": "93B0052D-02D9-4D8A-A43B-33A3EE4DFBC3",
+        "name": "Ceph dm-crypt block DB",
+        "toDisplay": null,
+        "comment": null
+    },
+    {
+        "mbrType": "0xf812",
+        "guidData": "306E8683-4FE2-4330-B7C0-00A917C16966",
+        "name": "Ceph dm-crypt block write-ahead log",
+        "toDisplay": null,
+        "comment": null
+    },
+    {
+        "mbrType": "0xf813",
+        "guidData": "45B0969E-9B03-4F30-B4C6-35865CEFF106",
+        "name": "Ceph dm-crypt LUKS journal",
+        "toDisplay": null,
+        "comment": null
+    },
+    {
+        "mbrType": "0xf814",
+        "guidData": "CAFECAFE-9B03-4F30-B4C6-35865CEFF106",
+        "name": "Ceph dm-crypt LUKS block",
+        "toDisplay": null,
+        "comment": null
+    },
+    {
+        "mbrType": "0xf815",
+        "guidData": "166418DA-C469-4022-ADF4-B30AFD37F176",
+        "name": "Ceph dm-crypt LUKS block DB",
+        "toDisplay": null,
+        "comment": null
+    },
+    {
+        "mbrType": "0xf816",
+        "guidData": "86A32090-3647-40B9-BBBD-38D8C573AA86",
+        "name": "Ceph dm-crypt LUKS block write-ahead log",
+        "toDisplay": null,
+        "comment": null
+    },
+    {
+        "mbrType": "0xf817",
+        "guidData": "4FBD7E29-9D25-41B8-AFD0-35865CEFF05D",
+        "name": "Ceph dm-crypt LUKS OSD",
+        "toDisplay": null,
+        "comment": null
+    },
+    {
+        "mbrType": "0xfb00",
+        "guidData": "AA31E02A-400F-11DB-9590-000C2911D1B8",
+        "name": "VMWare VMFS",
+        "toDisplay": null,
+        "comment": null
+    },
+    {
+        "mbrType": "0xfb01",
+        "guidData": "9198EFFC-31C0-11DB-8F78-000C2911D1B8",
+        "name": "VMWare reserved",
+        "toDisplay": null,
+        "comment": null
+    },
+    {
+        "mbrType": "0xfc00",
+        "guidData": "9D275380-40AD-11DB-BF97-000C2911D1B8",
+        "name": "VMWare kcore crash protection",
+        "toDisplay": null,
+        "comment": null
+    },
+    {
+        "mbrType": "0xfd00",
+        "guidData": "A19D880F-05FC-4D3B-A006-743F0F84911E",
+        "name": "Linux RAID",
+        "toDisplay": null,
+        "comment": null
+    }
+]
